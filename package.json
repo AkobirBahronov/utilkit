@@ -10,5 +10,8 @@
   "author": "Akobir Bahronov",
   "license": "ISC",
   "type": "module",
-  "repository": "github:AkobirBahronov/utilkit"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkobirBahronov/utilkit.git"
+  }
 }
